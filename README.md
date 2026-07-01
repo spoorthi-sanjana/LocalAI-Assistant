@@ -108,19 +108,19 @@ Developed as part of an AI Internship Project.
 ## 📸 Screenshots
 
 ### Home
-![](screenshots/home.png)
+![](screenshots/home.png.png)
 
 ### Chat
-![](screenshots/chat.png)
+![](screenshots/chat.png.png)
 
 ### Response
-![](screenshots/answer.png)
+![](screenshots/answer.png.png)
 
 ### Clear Chat
-![](screenshots/clear_chat.png)
+![](screenshots/clear_chat.png.png)
 
 ### Timestamps
-![](screenshots/timestamps.png)
+![](screenshots/timestamps.png.png)
 
 ### VS Code Project
-![](screenshots/vscode.png)
+![](screenshots/vscode.png.png)
